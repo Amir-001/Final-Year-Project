@@ -1,0 +1,6 @@
+flask
+numpy
+onnxruntime
+Pillow
+rasterio
+torch
