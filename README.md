@@ -1,6 +1,5 @@
-# Few-Shot Foundation-Model Mixture of Experts for Cereal Mapping
+# Few-Shot Foundation-Model Mixture of Experts for Cereal Mapping in Data-Scarce Regions
 
-**in Data-Scarce Regions**
 
 📦 This repository contains the full implementation and reproduction
 package of our project:\
@@ -79,5 +78,3 @@ The dataset used in this work is publicly available on Zenodo.
 ## 📝 Citation
 
 If you use this work or build upon it, please cite it appropriately:
-
-*(Add your citation or BibTeX entry here once available.)*
