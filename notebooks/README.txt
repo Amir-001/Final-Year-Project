@@ -19,6 +19,7 @@ Each notebook is self-contained; set your DATA_DIR, CHECKPOINT_DIR variables at 
 
 Run 'MixtureOfExperts.ipynb' to load the frozen experts and train the MoE gating network (or load the provided ONNX model for inference).
 
-For full training you need the dataset (Zenodo DOI)
+For full training you need the dataset (https://doi.org/10.5281/zenodo.17674368)
+
 
 
