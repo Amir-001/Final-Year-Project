@@ -62,6 +62,8 @@ Final-Year-Project/
 │   └── README.md              ← demo instructions + ONNX model link (~1.6 GB)
 │
 └── README.md                  ← this file
+│
+└── The-Paper                  ← the scientific publication produced by this work
 ```
 
 ------------------------------------------------------------------------
