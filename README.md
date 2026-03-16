@@ -2,7 +2,7 @@
 
 
 📦 This repository contains the full implementation and reproduction
-package of our project:\
+package of my project:\
 **"Few-shot foundation-model mixture of experts for cereal mapping in
 data-scarce regions."**
 
