@@ -33,11 +33,12 @@ This repository and README file will be **updated accordingly** in case of:
 - Revision requests  
 - Rejection  
 - Official publication (including DOI and final citation)
-
+Update: Mar 24, 2026, Accepted with minor revisions
 ---
 
 ## 📬 Contact
 
 **Author**: Amir Tighlit  
-**Status**: Manuscript under peer review  
+**Google Scholar**: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=mp5eht4AAAAJ
+**LinkedIn**: https://www.linkedin.com/in/amir-moncef-tighlit-1b0393290
 
