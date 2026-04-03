@@ -39,7 +39,8 @@ Update: Mar 24, 2026, Accepted with minor revisions
 
 ## 📬 Contact
 
-**Author**: Amir Tighlit  
+**Author**: Amir Tighlit 
+
 **Google Scholar**: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=mp5eht4AAAAJ
 
 **LinkedIn**: https://www.linkedin.com/in/amir-moncef-tighlit-1b0393290
