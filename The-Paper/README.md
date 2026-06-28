@@ -37,6 +37,8 @@ This repository and README file will be **updated accordingly** in case of:
 Update: Mar 24, 2026, Accepted with minor revisions
 
 Update: Jun 05, 2026, Accepted for publication in the Journal of Applied Remote Sensing
+
+Update: Jun 24, 2026, [DOI: 10.1117/1.JRS.20.026515]
 ---
 
 ## 📬 Contact
